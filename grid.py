@@ -27,3 +27,5 @@ while (count > 0):
 	turtle.right(180)
 	turtle.pendown()
 	count = count -1
+
+turtle.exitonclick()
